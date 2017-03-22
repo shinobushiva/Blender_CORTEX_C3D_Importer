@@ -1,4 +1,4 @@
-# Blender_CORTEX_C3D_Importer
+# Blender CORTEX C3D Importer
 C3D file importer for a file exported from Cortex
 
 # Install
